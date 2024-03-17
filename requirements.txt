@@ -2,7 +2,7 @@ joblib
 matplotlib
 optuna==3.5.0
 pandas
-pandas_profiling==3.1.0
+pandas_profiling
 Pillow==10.2.0
 plotly==5.19.0
 pycaret==3.3.0
